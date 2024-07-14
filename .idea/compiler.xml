@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="NodeGame" />
-        <module name="BuilderGame" />
+        <module name="palindrome" />
         <module name="ExceptionGame" />
+        <module name="BuilderGame" />
       </profile>
     </annotationProcessing>
   </component>
@@ -17,6 +18,7 @@
       <module name="BuilderGame" options="-parameters" />
       <module name="ExceptionGame" options="-parameters" />
       <module name="NodeGame" options="-parameters" />
+      <module name="palindrome" options="-parameters" />
     </option>
   </component>
 </project>
