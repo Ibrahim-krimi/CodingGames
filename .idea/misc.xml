@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/NodeGame/pom.xml" />
         <option value="$PROJECT_DIR$/ExceptionGame/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderGame/pom.xml" />
       </list>
     </option>
   </component>
